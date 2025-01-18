@@ -1,0 +1,9 @@
+
+#**/test
+**/.idea
+**/venv
+**/mf_settings_backups
+mf_settings.cfg
+main.spec
+build
+dist
